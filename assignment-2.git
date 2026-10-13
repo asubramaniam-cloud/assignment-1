@@ -1,0 +1,7 @@
+/p
+#In python, everything is defined as objects.
+#Make any object and check it's three properties. (No need to create a variable for the object)
+"Hello, Python"
+print("Hello, Python".__class__)
+print("Hello, Python".__len__())
+print("Hello, Python".__doc__)
